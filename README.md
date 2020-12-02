@@ -1,4 +1,4 @@
-# WordPress Plugin Boilerplate
+# WordPress Plugin Boilerplate (Teste)
 
 A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins.
 
